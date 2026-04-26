@@ -1,37 +1,39 @@
 <h1 align="center">Hi 👋, I'm Ishaan Farooq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Cool+Things" />
 </p>
 
 ---
 
-## 🌐 Profile Views
+## 🌐 Connect & Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishaaaanfarooq&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
+    
 
-## 🤝 Connect with me
-
-<p align="center">
   <a href="mailto:ishaanfarooq85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="#">
+
+  <a href="https://www.linkedin.com/in/ishan-farooq-8a0563292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,mongodb,aws,django,nodejs,postgres,git,html,css,arduino,unity" />
-</p>
+```txt
+Frontend: React, Next.js, HTML, CSS, JavaScript  
+Backend: Node.js, Express.js, REST APIs  
+Databases: PostgreSQL, MongoDB, ChromaDB  
+AI Tools: OpenAI API, ChatGPT, Gemini, Ollama, Sentence Transformers, LLMOps  
+DevOps & Tools: Docker, Git, GitHub, Postman, Linux Terminal, Streamlit  
+Concepts: API Orchestration, Authentication (JWT), Prompt Engineering, RAG Architecture, Data Structures & Algorithms, Backend Automation  
+```
 
 ---
 
