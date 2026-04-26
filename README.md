@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishaaaanfarooq&label=Profile%20Views&color=0e75b6&style=flat" />
 
-    
+   
 
   <a href="mailto:ishaanfarooq85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
@@ -26,14 +26,39 @@
 
 ## 🛠️ Tech Stack
 
-```txt
-Frontend: React, Next.js, HTML, CSS, JavaScript  
-Backend: Node.js, Express.js, REST APIs  
-Databases: PostgreSQL, MongoDB, ChromaDB  
-AI Tools: OpenAI API, ChatGPT, Gemini, Ollama, Sentence Transformers, LLMOps  
-DevOps & Tools: Docker, Git, GitHub, Postman, Linux Terminal, Streamlit  
-Concepts: API Orchestration, Authentication (JWT), Prompt Engineering, RAG Architecture, Data Structures & Algorithms, Backend Automation  
-```
+### 🚀 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,python" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br/>
+  <sub>OpenAI • ChatGPT • Gemini • Ollama • Sentence Transformers • LLMOps • RAG</sub>
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
+</p>
+
+### 🧠 Concepts
+
+<p align="center">
+  <sub>
+    API Orchestration • JWT Auth • Prompt Engineering • RAG Architecture • DSA • Backend Automation
+  </sub>
+</p>
 
 ---
 
