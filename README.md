@@ -95,7 +95,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishaaaanfarooq&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ishaaanfarooq&theme=tokyonight" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishaaaanfarooq/ishaaaanfarooq/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ishaaanfarooq/ishaaanfarooq/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
