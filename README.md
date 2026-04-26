@@ -24,41 +24,38 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ☕ Languages and Tools:
 
-### 🚀 Languages & Frameworks
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,python" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 🗄️ Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
 
-### 🤖 AI / ML
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br/>
-  <sub>OpenAI • ChatGPT • Gemini • Ollama • Sentence Transformers • LLMOps • RAG</sub>
-</p>
+<td>
 
-### ⚙️ DevOps & Tools
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
-</p>
-
-### 🧠 Concepts
-
-<p align="center">
-  <sub>
-    API Orchestration • JWT Auth • Prompt Engineering • RAG Architecture • DSA • Backend Automation
-  </sub>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
