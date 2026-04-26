@@ -117,5 +117,5 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/ishaaaanfarooq">Ishaan Farooq</a>
+  ⭐ From <a href="https://github.com/ishaaanfarooq">Ishaan Farooq</a>
 </p>
