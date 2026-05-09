@@ -75,7 +75,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/TjKxTTqKGSXEWIeBAJ/giphy.gif" width="320" height="400" alt="Retro Pixel Coding Animation"/>
+<img src="https://media.giphy.com/media/RbDKo8CFfo8gSi2bz4/giphy.gif" width="320" height="400" alt="Hacker Coding Animation"/>
 
 </td>
 </tr>
