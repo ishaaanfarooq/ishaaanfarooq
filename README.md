@@ -75,7 +75,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/RbDKo8CFfo8gSi2bz4/giphy.gif" width="320" height="400" alt="Hacker Coding Animation"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNjczl5eHFrOWNoMnd0OW53dnVndXk1ZXh6aWJhZTRwdzFnYjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" height="400" alt="Coding Animation"/>
 
 </td>
 </tr>
