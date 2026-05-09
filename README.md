@@ -75,7 +75,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g4dThqbHp5cmRnMDRxcW8yMmlpdWtrdzBwZGd6MzI0OGQ5emJ3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoRZaza8oGD7h0dYZ/giphy.gif" width="320"/>
 
 </td>
 </tr>
