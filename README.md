@@ -8,11 +8,11 @@
 
 ## 🌐 Connect & Profile Views
 
-<p align="">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishaaanfarooq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-  
-
+<p align="center">
   <a href="mailto:ishaanfarooq85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
@@ -75,7 +75,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g4dThqbHp5cmRnMDRxcW8yMmlpdWtrdzBwZGd6MzI0OGQ5emJ3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoRZaza8oGD7h0dYZ/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="320" height="400" alt="Coding animation"/>
 
 </td>
 </tr>
