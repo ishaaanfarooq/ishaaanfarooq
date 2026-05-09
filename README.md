@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishaan Farooq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ## 🌐 Connect & Profile Views
 
 <p align="">
-  <img src="https://komarev.com/ghpvc/?username=ishaaanfarooq&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ishaaanfarooq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-   
+  
 
   <a href="mailto:ishaanfarooq85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaaanfarooq&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaanfarooq&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaaanfarooq&show_icons=true&theme=tokyonight&disable_animations=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaanfarooq&layout=compact&theme=tokyonight&disable_animations=true" alt="Top Languages" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishaaanfarooq&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaaanfarooq&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishaaanfarooq/ishaaanfarooq/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ishaaanfarooq/ishaaanfarooq/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -111,7 +111,7 @@
 ## 💬 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
