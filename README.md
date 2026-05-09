@@ -86,8 +86,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaaanfarooq&show_icons=true&theme=tokyonight&disable_animations=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaanfarooq&layout=compact&theme=tokyonight&disable_animations=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaaanfarooq&show_icons=true&theme=tokyonight&disable_animations=true&cache_seconds=86400" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaanfarooq&layout=compact&theme=tokyonight&disable_animations=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
